@@ -1,4 +1,4 @@
-package ssha1
+package bcrypt
 
 import (
 	"github.com/jsimonetti/pwscheme/ssha"
